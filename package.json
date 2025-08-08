@@ -1,0 +1,12 @@
+{
+  "name": "glucose-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive Glucose Log Dashboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": ["glucose", "dashboard", "health", "monitoring"],
+  "author": "Your Name",
+  "license": "MIT"
+}
